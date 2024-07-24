@@ -35,6 +35,9 @@ struct CardView: View {
                 base.fill()
             }
         }
+        .onTapGesture {
+            
+        }
     }
 }
 
